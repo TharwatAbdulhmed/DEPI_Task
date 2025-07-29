@@ -1,0 +1,15 @@
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\bin\Debug\net5.0\DEPI_day02_Task.exe
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\bin\Debug\net5.0\DEPI_day02_Task.deps.json
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\bin\Debug\net5.0\DEPI_day02_Task.runtimeconfig.json
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\bin\Debug\net5.0\DEPI_day02_Task.runtimeconfig.dev.json
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\bin\Debug\net5.0\DEPI_day02_Task.dll
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\bin\Debug\net5.0\DEPI_day02_Task.pdb
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\DEPI_day02_Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\DEPI_day02_Task.AssemblyInfoInputs.cache
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\DEPI_day02_Task.AssemblyInfo.cs
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\DEPI_day02_Task.csproj.CoreCompileInputs.cache
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\DEPI_day02_Task.dll
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\refint\DEPI_day02_Task.dll
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\DEPI_day02_Task.pdb
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\DEPI_day02_Task.genruntimeconfig.cache
+E:\DEPI\Assignments\Done Assignment\C#\DEPI_day02\DEPI_day02_Task\obj\Debug\net5.0\ref\DEPI_day02_Task.dll

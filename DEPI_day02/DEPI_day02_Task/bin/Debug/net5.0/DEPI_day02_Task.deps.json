@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DEPI_day02_Task/1.0.0": {
+        "runtime": {
+          "DEPI_day02_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEPI_day02_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
